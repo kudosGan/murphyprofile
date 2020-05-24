@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/murphyprofile/static/css/main.5bbb2cda.chunk.css",
+    "main.js": "/murphyprofile/static/js/main.afe94b23.chunk.js",
+    "main.js.map": "/murphyprofile/static/js/main.afe94b23.chunk.js.map",
+    "runtime-main.js": "/murphyprofile/static/js/runtime-main.e6c92d51.js",
+    "runtime-main.js.map": "/murphyprofile/static/js/runtime-main.e6c92d51.js.map",
+    "static/js/2.7916c37e.chunk.js": "/murphyprofile/static/js/2.7916c37e.chunk.js",
+    "static/js/2.7916c37e.chunk.js.map": "/murphyprofile/static/js/2.7916c37e.chunk.js.map",
+    "index.html": "/murphyprofile/index.html",
+    "precache-manifest.776b67388e24537336b4b5677aa7c9cf.js": "/murphyprofile/precache-manifest.776b67388e24537336b4b5677aa7c9cf.js",
+    "service-worker.js": "/murphyprofile/service-worker.js",
+    "static/css/main.5bbb2cda.chunk.css.map": "/murphyprofile/static/css/main.5bbb2cda.chunk.css.map",
+    "static/js/2.7916c37e.chunk.js.LICENSE.txt": "/murphyprofile/static/js/2.7916c37e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c92d51.js",
+    "static/js/2.7916c37e.chunk.js",
+    "static/css/main.5bbb2cda.chunk.css",
+    "static/js/main.afe94b23.chunk.js"
+  ]
+}
